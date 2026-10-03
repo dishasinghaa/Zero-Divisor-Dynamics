@@ -1,5 +1,7 @@
 # Zero-Divisor Dynamics: Learning Geometry of Algebraic Singularities
 
+https://docs.google.com/document/d/1mAogzMXb_MGFrTu3xP4Eg4ZqvQILNDzqH9Ur8MHTLUM/edit?tab=t.0
+
 **Core question:** if an algebraic construction forces a genuinely singular
 point to exist inside a dynamical system, can a statistical procedure — with
 no access to its coordinates, no labels, and no knowledge of the underlying
